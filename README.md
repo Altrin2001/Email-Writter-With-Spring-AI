@@ -5,18 +5,6 @@ It features a modern, animated, and icon-enhanced UI for a seamless writing expe
 
 ---
 
-## 📁 Project Structure
-Email-Writter-With-Spring-AI/
-├── backend/ # Spring Boot backend (email-writter-sb)
-│ └── ...
-├── frontend/ # React + Vite + Tailwind frontend (email-writter-react)
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ └── ...
-├── README.md
----
-
 ## 🚀 Live Preview (Optional)
 
 🔗 Coming soon...
@@ -91,12 +79,6 @@ Open a pull request ✅
 Feel free to submit issues or feature requests.
 Made with ❤️ by Altrin2001
 ---
-
-### ✅ To use:
-1. Paste this into your `README.md`.
-2. Replace `"Coming soon..."` with your deployed frontend link (if available).
-3. Add screenshots by dragging and dropping into GitHub or linking uploaded images.
-4. Adjust `.env` and `application.properties` paths if different.
 
 
 
